@@ -1,0 +1,21 @@
+.z {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: -1;
+  }
+  h1{
+      text-align: center;
+      color: red;
+      font-family: "Sofia", sans-serif;
+  }
+
+  h2{
+      text-align: center;
+  }
+section{
+    text-align: center;
+    color: rgb(27, 26, 26)
+    
+}
+
